@@ -15,3 +15,5 @@
 """ conda info --envs  """
 
 """ Numpy é uma biblioteca de algebra linear para Python """
+
+""" Teste """
